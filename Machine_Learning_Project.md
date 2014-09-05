@@ -1,7 +1,5 @@
----
-title: "Course Project"
-output: html_document
----
+
+###Course Project
 
 ###predmachlearn-005
 ###September 2014
